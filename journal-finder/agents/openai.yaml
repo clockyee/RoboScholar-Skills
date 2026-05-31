@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Finder"
+  short_description: "Find journals, special issues, and revision gaps"
+  default_prompt: "Use $journal-finder to recommend suitable SCI journals and open special issues for my manuscript, with revision gaps and source links."

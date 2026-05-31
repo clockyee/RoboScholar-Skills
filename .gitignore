@@ -1,0 +1,49 @@
+# macOS / editor noise
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python / Node caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+
+# Secrets and local credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*token*
+*secret*
+*api_key*
+*apikey*
+credentials*
+
+# Manuscripts, private research artifacts, and generated reports
+mypaper/
+paper/
+papers/
+manuscripts/
+drafts/
+outputs/
+data/
+*.pdf
+*.docx
+*.tex
+*.bib
+*.xlsx
+*.xls
+*.csv
+*.tsv
+
+# Logs and temp files
+*.log
+tmp/
+temp/
