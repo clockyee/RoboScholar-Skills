@@ -54,4 +54,4 @@ find . -type f \( -name "*.pdf" -o -name "*.docx" -o -name "*.xlsx" -o -name "*.
 
 ## 许可证
 
-MIT License。见 [LICENSE](LICENSE)。
+Apache License 2.0。见 [LICENSE](LICENSE)。

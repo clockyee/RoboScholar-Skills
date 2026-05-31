@@ -54,4 +54,4 @@ The second command should print nothing unless you intentionally added public sa
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+Apache License 2.0. See [LICENSE](LICENSE).
